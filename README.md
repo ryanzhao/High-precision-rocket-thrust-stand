@@ -35,10 +35,7 @@ Step 3: Run Read_1x_load_cell_interrupt_driven.ino
 Now that you have the calibration factor, you can use it in the Read_1x_load_cell_interrupt_driven.ino example provided by the HX711 Arduino Library.
 
 Steps:
-Open the Read_1x_load_cell_interrupt_driven.ino example:
-
-In Arduino IDE, go to File -> Examples -> HX711 Arduino Library -> Read_1x_load_cell_interrupt_driven.
-Modify the example to include the calibration factor:
+Open the Read_1x_load_cell_interrupt_driven.ino example in Arduino IDE
 
 Find the line where the calibration factor is set, typically:
 
