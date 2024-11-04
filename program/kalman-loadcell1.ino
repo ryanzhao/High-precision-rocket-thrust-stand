@@ -1,8 +1,6 @@
 /*
    -------------------------------------------------------------------------------------
-   HX711_ADC
-   Arduino library for HX711 24-Bit Analog-to-Digital Converter for Weight Scales
-   Olav Kallhovd sept2017
+   https://www.youtube.com/watch?v=SIQJaqYVtuE&list=PLX2gX-ftPVXU3oUFNATxGXY90AULiqnWT&index=6
    -------------------------------------------------------------------------------------
 */
 
